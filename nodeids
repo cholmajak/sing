@@ -1,0 +1,9 @@
+[
+  "test_app.py::test_auth_login_invalid",
+  "test_app.py::test_auth_login_success",
+  "test_app.py::test_csv_report_export",
+  "test_app.py::test_dashboard_metrics_aggregation",
+  "test_app.py::test_database_connection",
+  "test_app.py::test_inventory_negative_stock_prevention",
+  "test_app.py::test_role_based_access_control"
+]
